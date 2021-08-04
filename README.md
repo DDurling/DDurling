@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Daniel Durling (he/him) and this is my Github profile!
+
+I currently work at the Bank of England as a Data Scientist, where I work as part of a Project Pool leading on delivering Data Science projects with other areas of the Business.
