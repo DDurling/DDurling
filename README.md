@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Daniel Durling (he/him) and this is my Github profile!
 
-I currently work at the Bank of England as a Data Scientist, where I work as part of a Project Pool leading on delivering Data Science projects with other areas of the Business.
+I currently work at Voicescape as the Senior Data Scientist, where I work as part of the Behavioural Insights team to build models of customer behaviour to lead to better interactions between our customers and their clients.
